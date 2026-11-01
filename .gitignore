@@ -1,0 +1,9 @@
+/target
+
+# Your personal settings and saved positions (created next to the exe)
+pico-widgets.json
+pico-widgets.ini
+
+# Editor junk
+.vscode/
+.idea/
